@@ -6,5 +6,6 @@ info:
   x-cortex-description: Demo service in jeff-relay-org-1 for relay migration testing
   x-cortex-git:
     github:
+      alias: jeff-relay-org-1
       repository: jeff-relay-org-1/service-alpha
 paths: {}
